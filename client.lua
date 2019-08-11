@@ -16,7 +16,7 @@ end)
 
 		local player = PlayerPedId()
 		local inside = false
-
+--Test
 	Citizen.CreateThread(function()
 	  	while true do
 		    Citizen.Wait(5)
